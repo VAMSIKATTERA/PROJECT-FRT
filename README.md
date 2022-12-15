@@ -26,22 +26,25 @@ This is a web based application developed for health related based website in in
 
 
 
+![Screenshot (11)](https://user-images.githubusercontent.com/118057610/207911540-a5150d4b-3a4b-46f3-bd5f-4ff261845bdd.png)
 
-   ![Screenshot (10)](https://user-images.githubusercontent.com/118057610/202461071-435ab6e8-fef2-47a0-add5-144814b355e0.png)
+   
 
 
 ### About Us -
 
 
 
+![Screenshot (12)](https://user-images.githubusercontent.com/118057610/207911999-9bf2c4be-594c-40a8-927b-501d3038c5ad.png)
 
-![Screenshot (6)](https://user-images.githubusercontent.com/118057610/202460082-ae0054bb-fa3b-42f6-83ac-af24eb85beb8.png)
+
 
 
 ### Services -
 
-![Screenshot (7)](https://user-images.githubusercontent.com/118057610/202460213-b727b9e1-d96a-4dc7-9753-9134ea5e2d14.png)
 
+
+![Screenshot (13)](https://user-images.githubusercontent.com/118057610/207912118-083484ef-be39-4986-a7ac-6b166d43e225.png)
 
 
 
@@ -49,15 +52,15 @@ This is a web based application developed for health related based website in in
 ### Contact us -
 
 
+![Screenshot (14)](https://user-images.githubusercontent.com/118057610/207912213-70a262d9-5269-4753-ac65-0d59ab4cb4da.png)
 
 
-![Screenshot (8)](https://user-images.githubusercontent.com/118057610/202460305-dcbdd50e-0542-4714-9ae4-49d1c895f9bc.png)
 
 
 ### health bot
 
-![Screenshot (9)](https://user-images.githubusercontent.com/118057610/202460425-06d3403d-778f-4fd9-bc14-dba69b33e653.png)
 
+![Screenshot (15)](https://user-images.githubusercontent.com/118057610/207912335-49360df0-cf1d-46b2-b513-057f740f1d6a.png)
 
 
 
