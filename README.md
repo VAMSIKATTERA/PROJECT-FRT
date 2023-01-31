@@ -38,26 +38,25 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
 ![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215725291-1244a2df-a255-4deb-a94c-ceba3fb4e2e9.jpeg)
 
-![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215725521-89dcacaf-8cd2-4119-8641-b11e9c5d594d.jpeg)
 
-![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215725822-e7671aea-0cdf-4c06-9f19-00b36e8f57fc.jpeg)
-
+![Web capture_31-1-2023_15186_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215727232-281d60bc-5e15-423d-b001-f77381e0fa0c.jpeg)
 
 
 
+![Web capture_31-1-2023_151928_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215727288-546991cd-e7cd-47f1-b50d-33422835ea46.jpeg)
 
 ### Services -
 
-![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215726116-d99e63cb-4406-44df-88c8-8d7a506b7abe.jpeg)
 
-![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215726304-26325f78-7d53-4ad1-973f-02bc2991f1e1.jpeg)
+![Web capture_31-1-2023_152025_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215726926-9765e201-f05c-456d-88e0-adec26a0f241.jpeg)
 
+![Web capture_31-1-2023_152117_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215726973-c481d152-564f-4c20-b41f-1ca96cd78cdd.jpeg)
 
 
 
 ### Contact us -
 
-![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215726474-383041e7-c4fb-4146-b879-2a04e447905c.jpeg)
+![Web capture_31-1-2023_15221_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215726777-fb123b1c-7fe9-441e-8005-3b9705d68834.jpeg)
 
 
 ### health bot
