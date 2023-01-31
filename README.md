@@ -36,21 +36,29 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
 ### About Us -
 
-![Screenshot 2023-01-25 155647](https://user-images.githubusercontent.com/118057610/214540339-bb699033-696f-4425-9eeb-aa8480363ad5.png)
+![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215725291-1244a2df-a255-4deb-a94c-ceba3fb4e2e9.jpeg)
 
-![Screenshot 2023-01-25 155718](https://user-images.githubusercontent.com/118057610/214540430-76420ce5-4c44-46dd-9d61-a7319073a8f5.png)
+![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215725521-89dcacaf-8cd2-4119-8641-b11e9c5d594d.jpeg)
 
-![Screenshot 2023-01-25 155748](https://user-images.githubusercontent.com/118057610/214540572-e5c9cde0-3bb9-49c9-b46f-a3edac7ccfc6.png)
+![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215725822-e7671aea-0cdf-4c06-9f19-00b36e8f57fc.jpeg)
+
+
+
+
 
 ### Services -
 
-![Screenshot 2023-01-25 155827](https://user-images.githubusercontent.com/118057610/214540706-bbcb0821-c40a-4e1c-89cc-60b0891e986c.png)
+![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215726116-d99e63cb-4406-44df-88c8-8d7a506b7abe.jpeg)
 
-![Screenshot 2023-01-25 155900](https://user-images.githubusercontent.com/118057610/214540770-f0e96cd7-d6ec-4414-8ba4-d97fa6b3d89b.png)
+![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215726304-26325f78-7d53-4ad1-973f-02bc2991f1e1.jpeg)
+
+
+
 
 ### Contact us -
 
-![Screenshot 2023-01-25 155953](https://user-images.githubusercontent.com/118057610/214540955-49dbb41f-c187-47ca-8952-a2a3e0d8a105.png)
+![Web capture_31-1-2023_15167_red-pebble-0cb213400 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/215726474-383041e7-c4fb-4146-b879-2a04e447905c.jpeg)
+
 
 ### health bot
 
